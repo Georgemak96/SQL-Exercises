@@ -1,2 +1,2 @@
 # SQL
-SQL-Exercises
+This is a repository for all my SQL exercises.
